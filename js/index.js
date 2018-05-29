@@ -1,1 +1,1 @@
-alert("a malibu")
+alert("ok");
